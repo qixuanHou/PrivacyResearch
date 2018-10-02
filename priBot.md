@@ -1,0 +1,1 @@
+We design and implement Polisis, an approach for au- tomatically annotating previously unseen privacy poli- cies with high-level and fine-grained labels from a pre- specified taxonomy (Sec. 2, 3, 4, and 5).
