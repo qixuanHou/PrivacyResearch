@@ -22,3 +22,8 @@ https://blog.whistic.com/gdpr-assessing-and-managing-processors-and-sub-processo
 * find out a way to retrieve only text from webpage without htmt and style
   * user click on the portion which contains subprocessors' name, the name will be displayed in our app
 * look into how people do the location and name tag, it is similar here, we want to do subprocessors tag
+
+
+
+Reference
+* https://www.i-scoop.eu/gdpr/data-processor-gdpr/ 
