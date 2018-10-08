@@ -1,9 +1,4 @@
 ## Scan website for subprocessors
-### Ideas
-* there is always a date on the page, when the page was updated. We probably can track this!
-* Create a user interactive tool to retrieve data from webpage  
-  * user click on the portion which contains the date, then the portion is recorded, and can be checked later
-
 ### Subprocessors 
 * Processors: “Processor means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.”
 * Sub-Processors: “Often processors will work with other processors (sub-processors)…Maybe your marketing agency works with partners for specific tasks whereby these partners also process personal data and thus become processors.”
@@ -13,6 +8,11 @@
 * GDPR Article 28/29/32-36/42/43 – the contract between data controller and data processor
 * GDPR Article 30 – data processors, record keeping and secure processing
 * GDPR Article 5 – data processors and controllers: common duties, shared liability 
+
+### Ideas
+* there is always a date on the page, when the page was updated. We probably can track this!
+* Create a user interactive tool to retrieve data from webpage  
+  * user click on the portion which contains the date, then the portion is recorded, and can be checked later
 
 
 ### Problems
