@@ -4,6 +4,17 @@
 * Create a user interactive tool to retrieve data from webpage  
   * user click on the portion which contains the date, then the portion is recorded, and can be checked later
 
+### Subprocessors 
+* Processors: “Processor means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.”
+* Sub-Processors: “Often processors will work with other processors (sub-processors)…Maybe your marketing agency works with partners for specific tasks whereby these partners also process personal data and thus become processors.”
+
+### Data Processor Obligation
+* GDPR Article 28 – The data processor can’t bring in another processor without a clear permission from (and thus notification duty towards) the controller.
+* GDPR Article 28/29/32-36/42/43 – the contract between data controller and data processor
+* GDPR Article 30 – data processors, record keeping and secure processing
+* GDPR Article 5 – data processors and controllers: common duties, shared liability 
+
+
 ### Problems
 * how to retrieve the link to the page about subprocessors 
   *Probably, we can start with inputing the subprocessors*
