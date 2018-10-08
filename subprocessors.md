@@ -14,6 +14,8 @@
   * if so, we could input the page link manually
 * subprocessors are always company name?
   * if so, we can have a company name training data set to do the extraction
+* subprocessors --> vendors in our APP
+https://blog.whistic.com/gdpr-assessing-and-managing-processors-and-sub-processors-in-whistic-f20117f9ab3
 
 ### Todo
 * find some definitions about what is subprocessors
