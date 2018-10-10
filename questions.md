@@ -13,14 +13,15 @@ Every company is required to have a page which provides information about subpro
 The sample website is the following -
 https://help.zendesk.com/hc/en-us/articles/229138187-Subprocessors-and-Subcontractors 
 
+### Map from complicance to the rules
+similar as scanning website for subprocessors
+sample start point to look at -
+* https://trust.salesforce.com/en/compliance/ 
+
 
 ### Privacy policies analysis <NLP + ML>
 Sample research project:
 * project https://pribot.org
 * paper https://pribot.org/files/Polisis_Technical_Report.pdf 
 
-
-### Map from complicance to the rules
-sample start point to look at -
-* https://trust.salesforce.com/en/compliance/ 
 
